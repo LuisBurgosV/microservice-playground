@@ -14,18 +14,18 @@ namespace ClassicApi.Infrastructure.Repositories
             _context = context;
         }
 
-        public Task<ClientDto> CreateClientAsync(ClientCreateDto clientCreateDto)
+        public Task<ClientDto> CreateClientAsync(BaseClientDto BaseClientDto)
         {
-            // TODO: Map ClientCreateDto to Client entity using mappings
+            // TODO: Map BaseClientDto to Client entity using mappings
             Client client = new()
             {
-                Name = clientCreateDto.Name,
-                Surname = clientCreateDto.Surname,
-                Email = clientCreateDto.Email,
-                Password = clientCreateDto.Password,
-                PhoneNumber = clientCreateDto.PhoneNumber,
-                Address = clientCreateDto.Address,
-                DateOfBirth = clientCreateDto.DateOfBirth,
+                Name = BaseClientDto.Name,
+                Surname = BaseClientDto.Surname,
+                Email = BaseClientDto.Email,
+                Password = BaseClientDto.Password,
+                PhoneNumber = BaseClientDto.PhoneNumber,
+                Address = BaseClientDto.Address,
+                DateOfBirth = BaseClientDto.DateOfBirth,
                 CreatedAt = DateTime.UtcNow,
                 UpdatedAt = null
             };
@@ -73,7 +73,7 @@ namespace ClassicApi.Infrastructure.Repositories
             throw new NotImplementedException();
         }
 
-        public Task<ClientDto> UpdateClientByIdAsync(int clientId, ClientUpdateDto clientUpdateDto)
+        public Task<ClientDto> UpdateClientByIdAsync(int clientId, BaseClientDto BaseClientDto)
         {
             throw new NotImplementedException();
         }

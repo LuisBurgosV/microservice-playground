@@ -1,5 +1,6 @@
 ﻿using ClassicApi.Application.DTOs;
 using ClassicApi.Application.Interfaces;
+using ClassicApi.Application.Services;
 using ClassicApi.Common.Exceptions;
 using Microsoft.AspNetCore.Mvc;
 
@@ -68,11 +69,11 @@ namespace ClassicApi.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateClient([FromBody] BaseClientDto BaseClientDto)
+        public async Task<IActionResult> CreateClient([FromBody] ClientCreateDto clientCreateDto)
         {
             try
             {
-                var createdClient = await _clientService.CreateClientAsync(BaseClientDto);
+                var createdClient = await _clientService.CreateClientAsync(clientCreateDto);
                 return Created(nameof(GetClientById), createdClient);
             }
             catch (ValidationException ex)
@@ -83,11 +84,11 @@ namespace ClassicApi.Controllers
 
         [HttpPut]
         [Route(routeId)]
-        public async Task<IActionResult> UpdateClient(int id, [FromBody] BaseClientDto BaseClientDto)
+        public async Task<IActionResult> UpdateClient(int id, [FromBody] ClientUpdateDto clientUpdateDto)
         {
             try
             {
-                var updatedClient = await _clientService.UpdateClientByIdAsync(id, BaseClientDto);
+                var updatedClient = await _clientService.UpdateClientByIdAsync(id, clientUpdateDto);
                 return Ok(updatedClient);
             }
             catch (NotFoundException ex)

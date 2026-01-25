@@ -1,0 +1,95 @@
+﻿using ClassicApi.Application.DTOs;
+using ClassicApi.Application.Interfaces;
+using ClassicApi.Application.Services;
+using Microsoft.AspNetCore.Mvc;
+
+namespace ClassicApi.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class ClientsController : ControllerBase
+    {
+        private const string routeName = "{name}";
+        private const string routeId = "{id}";
+
+        private readonly IClientService _clientService;
+
+        public ClientsController(IClientService clientService)
+        {
+            _clientService = clientService;
+        }
+
+        [HttpGet]
+        [Route(routeId)]
+        public async Task<IActionResult> GetClientById(int id)
+        {
+            var client = await _clientService.GetClientByIdAsync(id);
+            if (client == null)
+            {
+                return NotFound();
+            }
+            return Ok(client);
+        }
+
+        [HttpGet]
+        [Route(routeName)]
+        public async Task<IActionResult> GetClientByName(string name)
+        {
+            var clients = await _clientService.GetClientsByNameAsync(name);
+            if (clients == null || clients.Count() == 0)
+            {
+                return NotFound();
+            }
+            return Ok(clients);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAllClients()
+        {
+            var clients = await _clientService.GetAllClientsAsync();
+
+            if (clients == null || clients.Count() == 0)
+            {
+                return NotFound();
+            }
+
+            return Ok(clients);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateClient([FromBody] ClientCreateDto clientCreateDto)
+        {
+            var createdClient = await _clientService.CreateClientAsync(clientCreateDto);
+
+            if (createdClient == null) {
+                return BadRequest("Client could not be created.");
+            }
+
+            return Ok(createdClient);
+        }
+
+        [HttpPut]
+        [Route(routeId)]
+        public async Task<IActionResult> UpdateClient(int id, [FromBody] ClientUpdateDto clientUpdateDto)
+        {
+            var updatedClient = await _clientService.UpdateClientByIdAsync(id, clientUpdateDto);
+            if (updatedClient == null)
+            {
+                return NotFound();
+            }
+            return Ok(updatedClient);
+        }
+
+        [HttpDelete]
+        [Route(routeId)]
+        public async Task<IActionResult> DeleteClient(int id)
+        {
+            var isDeleted = await _clientService.DeleteClientByIdAsync(id);
+            if (!isDeleted)
+            {
+                return NotFound();
+            }
+            return Ok("client deleted successfully");
+        }
+    }
+}

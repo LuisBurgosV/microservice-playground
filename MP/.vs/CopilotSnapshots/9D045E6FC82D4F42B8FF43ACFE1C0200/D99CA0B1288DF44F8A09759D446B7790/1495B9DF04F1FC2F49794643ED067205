@@ -1,4 +1,4 @@
-using ClassicApi.Application.Interfaces;
+﻿using ClassicApi.Application.Interfaces;
 using ClassicApi.Application.Services;
 using ClassicApi.Infrastructure.Repositories;
 using ClassicApi.Infrastructure.Persistence;

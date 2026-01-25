@@ -49,14 +49,14 @@ namespace ClassicApi.Application.Services
             return clients;
         }
 
-        public async Task<ClientDto> CreateClientAsync(BaseClientDto BaseClientDto)
+        public async Task<ClientDto> CreateClientAsync(ClientCreateDto clientCreateDto)
         {
-            if (BaseClientDto == null)
+            if (clientCreateDto == null)
             {
                 throw new ValidationException("Client data cannot be null.");
             }
 
-            var createdClient = await _clientRepository.CreateClientAsync(BaseClientDto);
+            var createdClient = await _clientRepository.CreateClientAsync(clientCreateDto);
 
             if (createdClient == null)
             {
@@ -66,14 +66,14 @@ namespace ClassicApi.Application.Services
             return createdClient;
         }
 
-        public async Task<ClientDto> UpdateClientByIdAsync(int id, BaseClientDto BaseClientDto)
+        public async Task<ClientDto> UpdateClientByIdAsync(int id, ClientUpdateDto clientUpdateDto)
         {
-            if (BaseClientDto == null)
+            if (clientUpdateDto == null)
             {
                 throw new ValidationException("Client data cannot be null.");
-            }   
+            }
 
-            var updatedClient = await _clientRepository.UpdateClientByIdAsync(id, BaseClientDto);
+            var updatedClient = await _clientRepository.UpdateClientByIdAsync(id, clientUpdateDto);
             if (updatedClient == null)
             {
                 throw new NotFoundException($"Client with id {id} not found.");
