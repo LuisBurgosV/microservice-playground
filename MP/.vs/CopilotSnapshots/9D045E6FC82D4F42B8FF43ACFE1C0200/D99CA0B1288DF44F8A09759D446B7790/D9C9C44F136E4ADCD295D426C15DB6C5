@@ -1,7 +1,6 @@
 ﻿using ClassicApi.Application.DTOs;
 using ClassicApi.Application.Interfaces;
 using ClassicApi.Common.Exceptions;
-using ClassicApi.Common.Mapping;
 
 namespace ClassicApi.Application.Services
 {

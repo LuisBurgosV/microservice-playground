@@ -19,7 +19,7 @@ public partial class Program
 
         // Database
         builder.Services.AddDbContext<AppDbContext>(options =>
-            options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+            options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer")));
 
         // Dependency Injection
         builder.Services.AddScoped<IClientRepository, ClientRepository>();

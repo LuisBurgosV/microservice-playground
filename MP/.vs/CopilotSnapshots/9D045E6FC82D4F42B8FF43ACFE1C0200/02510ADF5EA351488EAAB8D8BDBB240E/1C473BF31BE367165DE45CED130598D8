@@ -1,8 +1,8 @@
 ﻿using ClassicApi.Application.DTOs;
 using ClassicApi.Application.Interfaces;
+using ClassicApi.Domain.Entities;
 using ClassicApi.Infrastructure.Persistence;
 using ClassicApi.Common.Mapping;
-using Microsoft.EntityFrameworkCore;
 
 namespace ClassicApi.Infrastructure.Repositories
 {
@@ -30,47 +30,30 @@ namespace ClassicApi.Infrastructure.Repositories
             return client.ToDto();
         }
 
-        public Task<IEnumerable<ClientDto>> GetClientsByNameAsync(string clientName)
-        {
-            var clients = _context.Clients
-                .Where(c => c.Name.Contains(clientName))
-                .AsNoTracking()
-                .ToListAsync();
-
-            return clients.ContinueWith(t => t.Result.Select(c => c.ToDto()));
-        }
-
         public Task<bool> DeleteClientByIdAsync(int clientId)
         {
-            _context.Clients.Remove(new Domain.Entities.Client { Id = clientId });
-
-            return _context.SaveChangesAsync().ContinueWith(t => t.Result > 0);
+            throw new NotImplementedException();
         }
 
         public Task<IEnumerable<ClientDto>> GetAllClientsAsync()
         {
-            // usar paginacion
             throw new NotImplementedException();
         }
 
         public Task<ClientDto> GetClientByIdAsync(int clientId)
         {
-            var client = _context.Clients
-                .AsNoTracking()
-                .FirstOrDefaultAsync(c => c.Id == clientId);
+            throw new NotImplementedException();
+        }
 
-            return client.ContinueWith(t => t.Result?.ToDto());
+        public Task<IEnumerable<ClientDto>> GetClientsByNameAsync(string clientName)
+        {
+            throw new NotImplementedException();
         }
 
         public Task<ClientDto> UpdateClientByIdAsync(int clientId, BaseClientDto BaseClientDto)
         {
-            var client = BaseClientDto.ToEntity();
-
-            client.Id = clientId;
-
-            _context.Clients.Update(client);
-
-            return _context.SaveChangesAsync().ContinueWith(t => t.Result > 0 ? client.ToDto() : null);
+            throw new NotImplementedException();
         }
     }
 }
+
