@@ -9,9 +9,6 @@ namespace ClassicApi.Controllers
     [Route("api/[controller]")]
     public class ClientsController : ControllerBase
     {
-        private const string routeName = "{name}";
-        private const string routeId = "{id}";
-
         private readonly IClientService _clientService;
 
         public ClientsController(IClientService clientService)
@@ -19,8 +16,7 @@ namespace ClassicApi.Controllers
             _clientService = clientService;
         }
 
-        [HttpGet]
-        [Route(routeId)]
+        [HttpGet("{id:int}")]
         public async Task<IActionResult> GetClientById(int id)
         {
             try
@@ -32,10 +28,17 @@ namespace ClassicApi.Controllers
             {
                 return NotFound(new { message = ex.Message });
             }
+            catch (ValidationException ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
+            catch (InvalidOperationException ex)
+            {
+                return StatusCode(500, new { message = ex.Message });
+            }
         }
 
-        [HttpGet]
-        [Route(routeName)]
+        [HttpGet("search/{name}")]
         public async Task<IActionResult> GetClientByName(string name)
         {
             try
@@ -51,43 +54,58 @@ namespace ClassicApi.Controllers
             {
                 return BadRequest(new { message = ex.Message });
             }
+            catch (InvalidOperationException ex)
+            {
+                return StatusCode(500, new { message = ex.Message });
+            }
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAllClients()
+        public async Task<IActionResult> GetAllClients(int pageNumber = 1, int pageSize = 10)
         {
             try
             {
-                var clients = await _clientService.GetAllClientsAsync();
+                var clients = await _clientService.GetAllClientsAsync(pageNumber, pageSize);
                 return Ok(clients);
             }
             catch (NotFoundException ex)
             {
                 return NotFound(new { message = ex.Message });
             }
+            catch (ValidationException ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
+            catch (InvalidOperationException ex)
+            {
+                return StatusCode(500, new { message = ex.Message });
+            }
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateClient([FromBody] BaseClientDto BaseClientDto)
+        public async Task<IActionResult> CreateClient([FromBody] BaseClientDto clientCreateDto)
         {
             try
             {
-                var createdClient = await _clientService.CreateClientAsync(BaseClientDto);
+                var createdClient = await _clientService.CreateClientAsync(clientCreateDto);
                 return Created(nameof(GetClientById), createdClient);
             }
             catch (ValidationException ex)
             {
                 return BadRequest(new { message = ex.Message });
             }
+            catch (InvalidOperationException ex)
+            {
+                return StatusCode(500, new { message = ex.Message });
+            }
         }
 
-        [HttpPut]
-        [Route(routeId)]
-        public async Task<IActionResult> UpdateClient(int id, [FromBody] BaseClientDto BaseClientDto)
+        [HttpPut("{id:int}")]
+        public async Task<IActionResult> UpdateClient(int id, [FromBody] BaseClientDto clientUpdateDto)
         {
             try
             {
-                var updatedClient = await _clientService.UpdateClientByIdAsync(id, BaseClientDto);
+                var updatedClient = await _clientService.UpdateClientByIdAsync(id, clientUpdateDto);
                 return Ok(updatedClient);
             }
             catch (NotFoundException ex)
@@ -98,10 +116,14 @@ namespace ClassicApi.Controllers
             {
                 return BadRequest(new { message = ex.Message });
             }
+            catch (InvalidOperationException ex)
+            {
+                return StatusCode(500, new { message = ex.Message });
+            }
         }
 
-        [HttpDelete]
-        [Route(routeId)]
+
+        [HttpDelete("{id:int}")]
         public async Task<IActionResult> DeleteClient(int id)
         {
             try
@@ -112,6 +134,14 @@ namespace ClassicApi.Controllers
             catch (NotFoundException ex)
             {
                 return NotFound(new { message = ex.Message });
+            }
+            catch (ValidationException ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
+            catch (InvalidOperationException ex)
+            {
+                return StatusCode(500, new { message = ex.Message });
             }
         }
     }

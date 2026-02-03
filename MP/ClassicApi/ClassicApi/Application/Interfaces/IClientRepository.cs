@@ -9,15 +9,17 @@ namespace ClassicApi.Application.Interfaces
 
         Task<IEnumerable<ClientDto>> GetClientsByNameAsync(string clientName);
 
-        Task<IEnumerable<ClientDto>> GetAllClientsAsync();
+        Task<IEnumerable<ClientDto>> GetAllClientsAsync(int pageNumber = 1, int pageSize = 10);
 
         // POST
-        Task<ClientDto> CreateClientAsync(BaseClientDto BaseClientDto);
+        Task<ClientDto> CreateClientAsync(BaseClientDto baseClientDto);
 
         // PUT
-        Task<ClientDto> UpdateClientByIdAsync(int clientId, BaseClientDto BaseClientDto);
+        Task<ClientDto> UpdateClientByIdAsync(int clientId, BaseClientDto baseClientDto);
 
         // DELETE
         Task<bool> DeleteClientByIdAsync(int clientId);
     }
 }
+
+

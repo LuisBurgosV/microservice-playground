@@ -17,7 +17,7 @@ namespace ClassicApi.Infrastructure.Persistence.Configurations
             builder.Property(e => e.PhoneNumber).HasMaxLength(20);
             builder.Property(e => e.Address).HasMaxLength(500);
             builder.Property(e => e.DateOfBirth).IsRequired();
-            builder.Property(e => e.CreatedAt).IsRequired();
+            builder.Property(e => e.CreatedAt);
             builder.Property(e => e.UpdatedAt);
         }
     }

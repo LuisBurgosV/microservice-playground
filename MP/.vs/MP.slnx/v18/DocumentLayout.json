@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\application\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\application\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\application\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\application\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\application\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\application\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\infrastructure\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\application\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\application\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\common\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\common\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\common\\mapping\\clientmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\common\\mapping\\clientmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\application\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\application\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\infrastructure\\persistence\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\infrastructure\\persistence\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\application\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\application\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\application\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\application\\dtos\\baseclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\infrastructure\\persistence\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\infrastructure\\persistence\\configurations\\clientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,28 +67,16 @@
       "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A799564F-12E8-46A6-B24D-9E8EADDB25B0}|Solution Items{A799564F-12E8-46A6-B24D-9E8EADDB25B0}|C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
-      "RelativeMoniker": "D:0:0:{A799564F-12E8-46A6-B24D-9E8EADDB25B0}|Solution Items{A799564F-12E8-46A6-B24D-9E8EADDB25B0}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\common\\mapping\\clientmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\common\\mapping\\clientmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\common\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\common\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\common\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\classicapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\classicapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,11 +86,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Infrastructure\\Security\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Infrastructure\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "ClassicApi\\ClassicApi\\Infrastructure\\Security\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:55:19.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Application\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "ClassicApi\\ClassicApi\\Application\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:55:14.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClassicApi",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\ClassicApi.csproj",
+              "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\ClassicApi.csproj",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\ClassicApi.csproj",
+              "RelativeToolTip": "ClassicApi\\ClassicApi\\ClassicApi.csproj",
+              "ViewState": "AgIAABQAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T14:55:10.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Infrastructure\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "ClassicApi\\ClassicApi\\Infrastructure\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwIUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:41:26.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\appsettings.Development.json",
@@ -82,12 +150,11 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-02T20:41:31.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T20:41:31.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -95,12 +162,11 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-02-02T20:40:29.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T20:40:29.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "BaseClientDto.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\DTOs\\BaseClientDto.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Application\\DTOs\\BaseClientDto.cs",
@@ -108,50 +174,50 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Application\\DTOs\\BaseClientDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T19:13:27.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T19:13:27.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "IClientService.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\Interfaces\\IClientService.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Application\\Interfaces\\IClientService.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\Interfaces\\IClientService.cs",
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Application\\Interfaces\\IClientService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAEBTwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T18:55:58.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Domain\\Entities\\Client.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Domain\\Entities\\Client.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Domain\\Entities\\Client.cs",
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Domain\\Entities\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T16:11:21.224Z"
+              "WhenOpened": "2026-01-25T16:11:21.224Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "ClientMappings.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Common\\Mapping\\ClientMappings.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Common\\Mapping\\ClientMappings.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Common\\Mapping\\ClientMappings.cs",
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Common\\Mapping\\ClientMappings.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCwAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T16:04:55.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "ValidationException.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Common\\Exceptions\\ValidationException.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Common\\Exceptions\\ValidationException.cs",
@@ -159,11 +225,12 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Common\\Exceptions\\ValidationException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T16:04:48.506Z"
+              "WhenOpened": "2026-01-25T16:04:48.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Common\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Common\\Exceptions\\NotFoundException.cs",
@@ -171,24 +238,25 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Common\\Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T16:04:38.358Z"
+              "WhenOpened": "2026-01-25T16:04:38.358Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ClientConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Infrastructure\\Persistence\\Configurations\\ClientConfiguration.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Infrastructure\\Persistence\\Configurations\\ClientConfiguration.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Infrastructure\\Persistence\\Configurations\\ClientConfiguration.cs",
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Infrastructure\\Persistence\\Configurations\\ClientConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T16:04:09.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Infrastructure\\Persistence\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Infrastructure\\Persistence\\AppDbContext.cs",
@@ -196,25 +264,24 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Infrastructure\\Persistence\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T16:03:51.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T16:03:51.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClientService.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\Services\\ClientService.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Application\\Services\\ClientService.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\Services\\ClientService.cs",
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Application\\Services\\ClientService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAawGEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T16:03:06.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "ClientDto.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\DTOs\\ClientDto.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Application\\DTOs\\ClientDto.cs",
@@ -222,44 +289,43 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Application\\DTOs\\ClientDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T15:37:07.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T15:37:07.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "IClientRepository.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\Interfaces\\IClientRepository.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Application\\Interfaces\\IClientRepository.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\Interfaces\\IClientRepository.cs",
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Application\\Interfaces\\IClientRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T15:34:08.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ClientsController.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Controllers\\ClientsController.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Controllers\\ClientsController.cs",
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCoAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAtwEMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T15:32:11.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Program.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Program.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Program.cs",
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBYAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T15:19:10.109Z",
               "EditorCaption": ""

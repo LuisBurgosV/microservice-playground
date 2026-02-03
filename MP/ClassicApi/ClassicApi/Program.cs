@@ -2,6 +2,7 @@ using ClassicApi.Application.Interfaces;
 using ClassicApi.Application.Services;
 using ClassicApi.Infrastructure.Repositories;
 using ClassicApi.Infrastructure.Persistence;
+using ClassicApi.Infrastructure.Security;
 using Microsoft.EntityFrameworkCore;
 
 public partial class Program
@@ -20,6 +21,9 @@ public partial class Program
         // Database
         builder.Services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer")));
+
+        // Security
+        builder.Services.AddScoped<IPasswordHasher, PasswordHasher>();
 
         // Dependency Injection
         builder.Services.AddScoped<IClientRepository, ClientRepository>();

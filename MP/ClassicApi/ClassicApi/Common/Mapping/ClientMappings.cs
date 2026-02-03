@@ -19,7 +19,7 @@ namespace ClassicApi.Common.Mapping
                 PhoneNumber = dto.PhoneNumber,
                 Address = dto.Address,
                 DateOfBirth = dto.DateOfBirth,
-                CreatedAt = DateTime.UtcNow,
+                CreatedAt = null,
                 UpdatedAt = null
             };
         }
