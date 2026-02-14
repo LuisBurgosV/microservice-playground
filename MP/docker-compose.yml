@@ -12,5 +12,47 @@ services:
     volumes:
       - mp_sqlserver_data:/var/opt/mssql
 
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: mp-rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: "admin"
+      RABBITMQ_DEFAULT_PASS: "admin"
+    volumes:
+      - mp_rabbitmq_data:/var/lib/rabbitmq
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "-q", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: mp-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - mp_ollama_data:/root/.ollama
+    restart: unless-stopped
+
+  ollama-init:
+    image: ollama/ollama:latest
+    container_name: mp-ollama-init
+    depends_on:
+      - ollama
+    volumes:
+      - mp_ollama_data:/root/.ollama
+    entrypoint: >
+      sh -c "
+      ollama list | grep -q 'llama3.1:8b' ||
+      ollama pull llama3.1:8b
+      "
+    restart: "no"
+
 volumes:
   mp_sqlserver_data:
+  mp_rabbitmq_data:
+  mp_ollama_data:

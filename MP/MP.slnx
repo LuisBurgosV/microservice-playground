@@ -1,4 +1,9 @@
 <Solution>
+  <Folder Name="/Protocols/">
+    <Project Path="Protocols/Listener/Listener.csproj" Id="f2e30532-6a0b-4ff1-9133-841dc3d19e6d" />
+    <Project Path="Protocols/RabbitMQClient/RabbitMQClient.csproj" Id="8330b3ed-c033-44aa-aaee-7f06c87c715d" />
+    <Project Path="Protocols/ServiceBusClient/ServiceBusClient.csproj" Id="cb9a49dd-0d0c-4638-b7e9-10dd6439eabf" />
+  </Folder>
   <Folder Name="/Solution Items/">
     <File Path="docker-compose.yml" />
   </Folder>
