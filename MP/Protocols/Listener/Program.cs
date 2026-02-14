@@ -18,7 +18,7 @@ var host = Host.CreateDefaultBuilder(args)
 
         services.AddSingleton<IServiceBusListener>(sp =>
             new ServiceBusListener(
-                connectionString: "Endpoint=sb://mp-servicebus-test-luis.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=9jH8pJ9ABi6R1ioCWiuCjVxA3dC3ZQoz5+ASbOHnwo4=",
+                connectionString: "Endpoint=sb://mp-servicebus-test-luis.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=XXXXXXXXXXXXXXX",
                 ollamaService: sp.GetRequiredService<IOllamaService>()
             )
         );

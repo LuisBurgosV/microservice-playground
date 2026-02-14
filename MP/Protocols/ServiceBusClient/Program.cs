@@ -5,7 +5,7 @@ internal class Program
     private static async Task Main(string[] args)
     {
         var serviceBusPublisher = new ServiceBusEventPublisher(
-            connectionString: "Endpoint=sb://mp-servicebus-test-luis.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=9jH8pJ9ABi6R1ioCWiuCjVxA3dC3ZQoz5+ASbOHnwo4="
+            connectionString: "Endpoint=sb://mp-servicebus-test-luis.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=XXXXXXXXXXXXXXX"
         );
 
         try
