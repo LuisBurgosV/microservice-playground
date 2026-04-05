@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\handlers\\sportsbookeventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\handlers\\sportsbookeventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\bus\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\bus\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\sportsbookeventdrivenexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\sportsbookeventdrivenexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\bus\\rabbitmqeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\bus\\rabbitmqeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\bus\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\bus\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
       "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\events\\sportsbookevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\events\\sportsbookevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\events\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\events\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -71,12 +107,15 @@
       "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\classicapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\classicapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\eventdrivendesigns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\eventdrivendesigns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luis_\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-856502897\\SUMMARY.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,11 +125,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SUMMARY.md",
+              "DocumentMoniker": "C:\\Users\\luis_\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-856502897\\SUMMARY.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-856502897\\SUMMARY.md",
+              "ToolTip": "C:\\Users\\luis_\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-856502897\\SUMMARY.md",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-856502897\\SUMMARY.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-05T09:23:05.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMQEventBus.cs",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Bus\\RabbitMQEventBus.cs",
+              "RelativeDocumentMoniker": "EventDrivenDesigns\\Bus\\RabbitMQEventBus.cs",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Bus\\RabbitMQEventBus.cs",
+              "RelativeToolTip": "EventDrivenDesigns\\Bus\\RabbitMQEventBus.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwCcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:13:38.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EventDrivenDesigns",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\EventDrivenDesigns.csproj",
+              "RelativeDocumentMoniker": "EventDrivenDesigns\\EventDrivenDesigns.csproj",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\EventDrivenDesigns.csproj",
+              "RelativeToolTip": "EventDrivenDesigns\\EventDrivenDesigns.csproj",
+              "ViewState": "AgIAAAsAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-05T09:12:16.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Program.cs",
+              "RelativeDocumentMoniker": "EventDrivenDesigns\\Program.cs",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Program.cs",
+              "RelativeToolTip": "EventDrivenDesigns\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T08:43:07.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SportsbookEventDrivenExample.cs",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\SportsbookEventDrivenExample.cs",
+              "RelativeDocumentMoniker": "EventDrivenDesigns\\SportsbookEventDrivenExample.cs",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\SportsbookEventDrivenExample.cs",
+              "RelativeToolTip": "EventDrivenDesigns\\SportsbookEventDrivenExample.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAASwCsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T08:43:04.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SportsbookEventHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Handlers\\SportsbookEventHandlers.cs",
+              "RelativeDocumentMoniker": "EventDrivenDesigns\\Handlers\\SportsbookEventHandlers.cs",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Handlers\\SportsbookEventHandlers.cs",
+              "RelativeToolTip": "EventDrivenDesigns\\Handlers\\SportsbookEventHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T08:42:50.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEventBus.cs",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Bus\\IEventBus.cs",
+              "RelativeDocumentMoniker": "EventDrivenDesigns\\Bus\\IEventBus.cs",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Bus\\IEventBus.cs",
+              "RelativeToolTip": "EventDrivenDesigns\\Bus\\IEventBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T08:42:32.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Bus\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "EventDrivenDesigns\\Bus\\IEventHandler.cs",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Bus\\IEventHandler.cs",
+              "RelativeToolTip": "EventDrivenDesigns\\Bus\\IEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T08:42:23.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SportsbookEvents.cs",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Events\\SportsbookEvents.cs",
+              "RelativeDocumentMoniker": "EventDrivenDesigns\\Events\\SportsbookEvents.cs",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Events\\SportsbookEvents.cs",
+              "RelativeToolTip": "EventDrivenDesigns\\Events\\SportsbookEvents.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T08:42:20.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Events\\DomainEvent.cs",
+              "RelativeDocumentMoniker": "EventDrivenDesigns\\Events\\DomainEvent.cs",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Events\\DomainEvent.cs",
+              "RelativeToolTip": "EventDrivenDesigns\\Events\\DomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T08:42:13.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Infrastructure\\Security\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Infrastructure\\Security\\PasswordHasher.cs",
@@ -102,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "IPasswordHasher.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\Interfaces\\IPasswordHasher.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Application\\Interfaces\\IPasswordHasher.cs",
@@ -114,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "ClassicApi.csproj",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\ClassicApi.csproj",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\ClassicApi.csproj",
@@ -126,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "ClientRepository.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Infrastructure\\Repositories\\ClientRepository.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Infrastructure\\Repositories\\ClientRepository.cs",
@@ -138,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\appsettings.Development.json",
@@ -150,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -158,11 +327,12 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-02-02T20:40:29.407Z"
+              "WhenOpened": "2026-02-02T20:40:29.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "BaseClientDto.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\DTOs\\BaseClientDto.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Application\\DTOs\\BaseClientDto.cs",
@@ -174,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "IClientService.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\Interfaces\\IClientService.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Application\\Interfaces\\IClientService.cs",
@@ -186,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Domain\\Entities\\Client.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Domain\\Entities\\Client.cs",
@@ -198,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "ClientMappings.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Common\\Mapping\\ClientMappings.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Common\\Mapping\\ClientMappings.cs",
@@ -210,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "ValidationException.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Common\\Exceptions\\ValidationException.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Common\\Exceptions\\ValidationException.cs",
@@ -222,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Common\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Common\\Exceptions\\NotFoundException.cs",
@@ -234,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "ClientConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Infrastructure\\Persistence\\Configurations\\ClientConfiguration.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Infrastructure\\Persistence\\Configurations\\ClientConfiguration.cs",
@@ -246,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Infrastructure\\Persistence\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Infrastructure\\Persistence\\AppDbContext.cs",
@@ -258,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "ClientService.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\Services\\ClientService.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Application\\Services\\ClientService.cs",
@@ -270,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "ClientDto.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\DTOs\\ClientDto.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Application\\DTOs\\ClientDto.cs",
@@ -282,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "IClientRepository.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Application\\Interfaces\\IClientRepository.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Application\\Interfaces\\IClientRepository.cs",
@@ -294,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "ClientsController.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Controllers\\ClientsController.cs",
@@ -307,15 +477,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Program.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Program.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Program.cs",
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBYAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T15:19:10.109Z"
+              "WhenOpened": "2026-01-25T15:19:10.109Z",
+              "EditorCaption": ""
             }
           ]
         }

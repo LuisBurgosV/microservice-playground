@@ -8,4 +8,5 @@
     <File Path="docker-compose.yml" />
   </Folder>
   <Project Path="ClassicApi/ClassicApi/ClassicApi.csproj" />
+  <Project Path="EventDrivenDesigns/EventDrivenDesigns.csproj" />
 </Solution>
