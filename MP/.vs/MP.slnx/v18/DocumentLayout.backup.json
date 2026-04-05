@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2E30532-6A0B-4FF1-9133-841DC3D19E6D}|Protocols\\Listener\\Listener.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\protocols\\listener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E30532-6A0B-4FF1-9133-841DC3D19E6D}|Protocols\\Listener\\Listener.csproj|solutionrelative:protocols\\listener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E30532-6A0B-4FF1-9133-841DC3D19E6D}|Protocols\\Listener\\Listener.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\protocols\\listener\\servicebuslistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E30532-6A0B-4FF1-9133-841DC3D19E6D}|Protocols\\Listener\\Listener.csproj|solutionrelative:protocols\\listener\\servicebuslistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9A49DD-0D0C-4638-B7E9-10DD6439EABF}|Protocols\\ServiceBusClient\\ServiceBusClient.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\protocols\\servicebusclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9A49DD-0D0C-4638-B7E9-10DD6439EABF}|Protocols\\ServiceBusClient\\ServiceBusClient.csproj|solutionrelative:protocols\\servicebusclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|solutionrelative:classicapi\\classicapi\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{8330B3ED-C033-44AA-AAEE-7F06C87C715D}|Protocols\\RabbitMQClient\\RabbitMQClient.csproj|solutionrelative:protocols\\rabbitmqclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2E30532-6A0B-4FF1-9133-841DC3D19E6D}|Protocols\\Listener\\Listener.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\protocols\\listener\\servicebuslistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2E30532-6A0B-4FF1-9133-841DC3D19E6D}|Protocols\\Listener\\Listener.csproj|solutionrelative:protocols\\listener\\servicebuslistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2E30532-6A0B-4FF1-9133-841DC3D19E6D}|Protocols\\Listener\\Listener.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\protocols\\listener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2E30532-6A0B-4FF1-9133-841DC3D19E6D}|Protocols\\Listener\\Listener.csproj|solutionrelative:protocols\\listener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB9A49DD-0D0C-4638-B7E9-10DD6439EABF}|Protocols\\ServiceBusClient\\ServiceBusClient.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\protocols\\servicebusclient\\servicebuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB9A49DD-0D0C-4638-B7E9-10DD6439EABF}|Protocols\\ServiceBusClient\\ServiceBusClient.csproj|solutionrelative:protocols\\servicebusclient\\servicebuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB9A49DD-0D0C-4638-B7E9-10DD6439EABF}|Protocols\\ServiceBusClient\\ServiceBusClient.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\protocols\\servicebusclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB9A49DD-0D0C-4638-B7E9-10DD6439EABF}|Protocols\\ServiceBusClient\\ServiceBusClient.csproj|solutionrelative:protocols\\servicebusclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2E30532-6A0B-4FF1-9133-841DC3D19E6D}|Protocols\\Listener\\Listener.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\protocols\\listener\\rabbitmqlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,20 +126,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 27,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "Listener",
+              "Title": "Listener.csproj",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\Protocols\\Listener\\Listener.csproj",
               "RelativeDocumentMoniker": "Protocols\\Listener\\Listener.csproj",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\Protocols\\Listener\\Listener.csproj",
               "RelativeToolTip": "Protocols\\Listener\\Listener.csproj",
               "ViewState": "AgIAABAAAAAAAAAAAABBwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-14T19:18:32.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T19:18:32.38Z"
             },
             {
               "$type": "Document",
@@ -151,12 +150,11 @@
               "RelativeToolTip": "Protocols\\Listener\\ListenerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T19:18:25.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T19:18:25.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ServiceBusListener.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\Protocols\\Listener\\ServiceBusListener.cs",
               "RelativeDocumentMoniker": "Protocols\\Listener\\ServiceBusListener.cs",
@@ -177,8 +175,7 @@
               "RelativeToolTip": "Protocols\\Listener\\RabbitMQListener.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAWwA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T19:18:10.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T19:18:10.619Z"
             },
             {
               "$type": "Document",
@@ -190,12 +187,11 @@
               "RelativeToolTip": "Protocols\\Listener\\OllamaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T19:18:03.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T19:18:03.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ServiceBusPublisher.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\Protocols\\ServiceBusClient\\ServiceBusPublisher.cs",
               "RelativeDocumentMoniker": "Protocols\\ServiceBusClient\\ServiceBusPublisher.cs",
@@ -203,12 +199,11 @@
               "RelativeToolTip": "Protocols\\ServiceBusClient\\ServiceBusPublisher.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAiwCYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T18:49:30.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:49:30.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RabbitMQPublisher.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\Protocols\\RabbitMQClient\\RabbitMQPublisher.cs",
               "RelativeDocumentMoniker": "Protocols\\RabbitMQClient\\RabbitMQPublisher.cs",
@@ -216,25 +211,24 @@
               "RelativeToolTip": "Protocols\\RabbitMQClient\\RabbitMQPublisher.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAWwBAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T18:47:04.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:47:04.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\Protocols\\ServiceBusClient\\Program.cs",
               "RelativeDocumentMoniker": "Protocols\\ServiceBusClient\\Program.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\Protocols\\ServiceBusClient\\Program.cs",
               "RelativeToolTip": "Protocols\\ServiceBusClient\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAYAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T18:38:34.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\Protocols\\Listener\\Program.cs",
               "RelativeDocumentMoniker": "Protocols\\Listener\\Program.cs",
@@ -247,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\Protocols\\RabbitMQClient\\Program.cs",
               "RelativeDocumentMoniker": "Protocols\\RabbitMQClient\\Program.cs",
@@ -255,8 +249,7 @@
               "RelativeToolTip": "Protocols\\RabbitMQClient\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T18:37:12.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T18:37:12.827Z"
             },
             {
               "$type": "Document",
@@ -268,8 +261,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Infrastructure\\Security\\PasswordHasher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T14:55:19.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T14:55:19.771Z"
             },
             {
               "$type": "Document",
@@ -281,8 +273,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Application\\Interfaces\\IPasswordHasher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T14:55:14.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T14:55:14.141Z"
             },
             {
               "$type": "Document",
@@ -294,8 +285,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\ClassicApi.csproj",
               "ViewState": "AgIAABIAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-03T14:55:10.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T14:55:10.259Z"
             },
             {
               "$type": "Document",
@@ -307,8 +297,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Infrastructure\\Repositories\\ClientRepository.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAUwIUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T14:41:26.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T14:41:26.489Z"
             },
             {
               "$type": "Document",
@@ -320,8 +309,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-02T20:41:31.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T20:41:31.901Z"
             },
             {
               "$type": "Document",
@@ -333,8 +321,7 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-02-02T20:40:29.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T20:40:29.407Z"
             },
             {
               "$type": "Document",
@@ -346,8 +333,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Application\\DTOs\\BaseClientDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T19:13:27.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T19:13:27.306Z"
             },
             {
               "$type": "Document",
@@ -359,8 +345,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Application\\Interfaces\\IClientService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA2wBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T18:55:58.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T18:55:58.846Z"
             },
             {
               "$type": "Document",
@@ -372,8 +357,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Domain\\Entities\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T16:11:21.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T16:11:21.224Z"
             },
             {
               "$type": "Document",
@@ -385,8 +369,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Common\\Mapping\\ClientMappings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T16:04:55.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T16:04:55.503Z"
             },
             {
               "$type": "Document",
@@ -398,8 +381,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Common\\Exceptions\\ValidationException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T16:04:48.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T16:04:48.506Z"
             },
             {
               "$type": "Document",
@@ -411,8 +393,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Common\\Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T16:04:38.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T16:04:38.358Z"
             },
             {
               "$type": "Document",
@@ -424,8 +405,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Infrastructure\\Persistence\\Configurations\\ClientConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T16:04:09.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T16:04:09.954Z"
             },
             {
               "$type": "Document",
@@ -437,8 +417,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Infrastructure\\Persistence\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T16:03:51.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T16:03:51.688Z"
             },
             {
               "$type": "Document",
@@ -450,8 +429,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Application\\Services\\ClientService.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAawGEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T16:03:06.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T16:03:06.733Z"
             },
             {
               "$type": "Document",
@@ -463,8 +441,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Application\\DTOs\\ClientDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T15:37:07.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T15:37:07.854Z"
             },
             {
               "$type": "Document",
@@ -476,12 +453,11 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Application\\Interfaces\\IClientRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T15:34:08.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T15:34:08.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ClientsController.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\ClassicApi\\ClassicApi\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "ClassicApi\\ClassicApi\\Controllers\\ClientsController.cs",
@@ -502,8 +478,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwBYAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T15:19:10.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T15:19:10.109Z"
             }
           ]
         }
