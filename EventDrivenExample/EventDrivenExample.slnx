@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="Event.Shared\Event.Shared.csproj" />
+  <Project Path="Producer\Producer.csproj" />
+  <Project Path="Consumer.Shared\Consumer.Shared.csproj" />
+  <Project Path="Consumer.EmailNotification\Consumer.EmailNotification.csproj" />
+  <Project Path="Consumer.Logging\Consumer.Logging.csproj" />
+</Solution>

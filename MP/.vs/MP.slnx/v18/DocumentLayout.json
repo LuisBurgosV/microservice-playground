@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\sportsbookeventdrivenexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\sportsbookeventdrivenexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\handlers\\sportsbookeventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\handlers\\sportsbookeventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\bus\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\sportsbookeventdrivenexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\sportsbookeventdrivenexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\events\\sportsbookevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\events\\sportsbookevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\bus\\rabbitmqeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\bus\\rabbitmqeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\events\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\events\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\bus\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
-      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\events\\sportsbookevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\events\\sportsbookevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\events\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\events\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\eventdrivendesigns\\bus\\rabbitmqeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE84BF41-06F8-7636-DB9F-715D51E550F5}|EventDrivenDesigns\\EventDrivenDesigns.csproj|solutionrelative:eventdrivendesigns\\bus\\rabbitmqeventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{712AC2CA-E425-AA95-FF1E-D4ADE371544A}|ClassicApi\\ClassicApi\\ClassicApi.csproj|c:\\users\\luis_\\desktop\\luis_burgos_vidales\\develop2024\\core\\microservice-playground\\mp\\classicapi\\classicapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -125,7 +125,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Document",
@@ -137,125 +137,116 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-856502897\\SUMMARY.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-04-05T09:23:05.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T09:23:05.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "RabbitMQEventBus.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Bus\\RabbitMQEventBus.cs",
               "RelativeDocumentMoniker": "EventDrivenDesigns\\Bus\\RabbitMQEventBus.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Bus\\RabbitMQEventBus.cs",
               "RelativeToolTip": "EventDrivenDesigns\\Bus\\RabbitMQEventBus.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAASwCcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T09:13:38.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T09:13:38.767Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "EventDrivenDesigns",
+              "Title": "EventDrivenDesigns.csproj",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\EventDrivenDesigns.csproj",
               "RelativeDocumentMoniker": "EventDrivenDesigns\\EventDrivenDesigns.csproj",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\EventDrivenDesigns.csproj",
               "RelativeToolTip": "EventDrivenDesigns\\EventDrivenDesigns.csproj",
               "ViewState": "AgIAAAsAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-05T09:12:16.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T09:12:16.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Program.cs",
               "RelativeDocumentMoniker": "EventDrivenDesigns\\Program.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Program.cs",
               "RelativeToolTip": "EventDrivenDesigns\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBQAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T08:43:07.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T08:43:07.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SportsbookEventDrivenExample.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\SportsbookEventDrivenExample.cs",
               "RelativeDocumentMoniker": "EventDrivenDesigns\\SportsbookEventDrivenExample.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\SportsbookEventDrivenExample.cs",
               "RelativeToolTip": "EventDrivenDesigns\\SportsbookEventDrivenExample.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAASwCsAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAjwCkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T08:43:04.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SportsbookEventHandlers.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Handlers\\SportsbookEventHandlers.cs",
               "RelativeDocumentMoniker": "EventDrivenDesigns\\Handlers\\SportsbookEventHandlers.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Handlers\\SportsbookEventHandlers.cs",
               "RelativeToolTip": "EventDrivenDesigns\\Handlers\\SportsbookEventHandlers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAtwFoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T08:42:50.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T08:42:50.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IEventBus.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Bus\\IEventBus.cs",
               "RelativeDocumentMoniker": "EventDrivenDesigns\\Bus\\IEventBus.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Bus\\IEventBus.cs",
               "RelativeToolTip": "EventDrivenDesigns\\Bus\\IEventBus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T08:42:32.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T08:42:32.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IEventHandler.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Bus\\IEventHandler.cs",
               "RelativeDocumentMoniker": "EventDrivenDesigns\\Bus\\IEventHandler.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Bus\\IEventHandler.cs",
               "RelativeToolTip": "EventDrivenDesigns\\Bus\\IEventHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T08:42:23.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T08:42:23.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "SportsbookEvents.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Events\\SportsbookEvents.cs",
               "RelativeDocumentMoniker": "EventDrivenDesigns\\Events\\SportsbookEvents.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Events\\SportsbookEvents.cs",
               "RelativeToolTip": "EventDrivenDesigns\\Events\\SportsbookEvents.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA2wB0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T08:42:20.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T08:42:20.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "DomainEvent.cs",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Events\\DomainEvent.cs",
               "RelativeDocumentMoniker": "EventDrivenDesigns\\Events\\DomainEvent.cs",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\EventDrivenDesigns\\Events\\DomainEvent.cs",
               "RelativeToolTip": "EventDrivenDesigns\\Events\\DomainEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T08:42:13.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T08:42:13.158Z"
             },
             {
               "$type": "Document",
@@ -319,13 +310,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
               "ToolTip": "C:\\Users\\luis_\\Desktop\\LUIS_BURGOS_VIDALES\\Develop2024\\Core\\microservice-playground\\MP\\docker-compose.yml",
               "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2026-02-02T20:40:29.407Z",
               "EditorCaption": ""
@@ -472,8 +463,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Controllers\\ClientsController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T15:32:11.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T15:32:11.008Z"
             },
             {
               "$type": "Document",
@@ -485,8 +475,7 @@
               "RelativeToolTip": "ClassicApi\\ClassicApi\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T15:19:10.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T15:19:10.109Z"
             }
           ]
         }
