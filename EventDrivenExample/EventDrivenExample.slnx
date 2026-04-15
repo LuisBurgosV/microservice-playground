@@ -1,7 +1,8 @@
-﻿<Solution>
+<Solution>
+  <Project Path="Consumer.EmailNotification\Consumer.EmailNotification.csproj" />
+  <Project Path="Consumer.Invoicing/Consumer.Invoicing.csproj" Id="edb98194-314f-4c43-9082-5ec143262937" />
+  <Project Path="Consumer.Logging\Consumer.Logging.csproj" />
+  <Project Path="Consumer.Shared\Consumer.Shared.csproj" />
   <Project Path="Event.Shared\Event.Shared.csproj" />
   <Project Path="Producer\Producer.csproj" />
-  <Project Path="Consumer.Shared\Consumer.Shared.csproj" />
-  <Project Path="Consumer.EmailNotification\Consumer.EmailNotification.csproj" />
-  <Project Path="Consumer.Logging\Consumer.Logging.csproj" />
 </Solution>

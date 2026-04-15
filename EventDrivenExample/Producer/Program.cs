@@ -21,6 +21,9 @@ await PublishUserEvents(publisher);
 // Publicar eventos de pedidos
 await PublishOrderEvents(publisher);
 
+//Publicar eventos de facturacion
+await PublishInvoicingEvents(publisher);
+
 Console.WriteLine("\n✅ Todos los eventos han sido publicados. Presiona cualquier tecla para salir...");
 Console.ReadKey();
 
@@ -70,6 +73,31 @@ static async Task PublishOrderEvents(IEventPublisher publisher)
             Description = order.Desc
         };
 
+        await publisher.PublishAsync(evt);
+        await Task.Delay(500);
+    }
+}
+
+static async Task PublishInvoicingEvents(IEventPublisher publisher)
+{
+    Console.WriteLine("\n📤 Publicando eventos de facturación...\n");
+
+    var invoices = new[]
+    {
+        new { Id = "invoice-001", OrderId = "order-001", Amount = 99.99m, Status = "Paid" },
+        new { Id = "invoice-002", OrderId = "order-002", Amount = 49.99m, Status = "Pending" },
+        new { Id = "invoice-003", OrderId = "order-003", Amount = 299.99m, Status = "Paid" }
+    };
+
+    foreach (var invoice in invoices)
+    {
+        var evt = new InvoicingEvent
+        {
+            InvoiceId = invoice.Id,
+            OrderId = invoice.OrderId,
+            Amount = invoice.Amount,
+            Status = invoice.Status
+        };
         await publisher.PublishAsync(evt);
         await Task.Delay(500);
     }
